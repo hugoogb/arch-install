@@ -62,8 +62,8 @@ if [ ! -d $LOCAL_BIN_DIR ]; then
   mkdir -p $LOCAL_BIN_DIR
 fi
 
-ok "Welcome to @hugoogb dotfiles!!!"
-info "Starting bootstrap process..."
+ok "Welcome to the installation!!!"
+info "Starting installation process..."
 
 sleep 1
 

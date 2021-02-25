@@ -310,7 +310,7 @@ You can clone and execute the bootstrap script or just use the curl command belo
 git clone https://github.com/hugoogb/arch-install.git ~/arch-install
 ```
 
-#### Bootstrap script
+#### Installation script
 
 ```sh
 . ~/arch-install/installation.sh

@@ -1,3 +1,11 @@
 /*
 !README.md
 !.gitignore
+
+!services
+!lightdm
+!pkglist
+!themes
+!gtk
+!.xprofile
+!installation.sh
